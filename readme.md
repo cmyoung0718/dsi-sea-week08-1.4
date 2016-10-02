@@ -57,7 +57,6 @@ Your task is now to compute that in Python!!
 
 [Use the starter code found here to get going](./code/w8-1.4-starter.ipynb)
 
-> [Solution Code](./code/w8-1.4-solutions.ipynb)
 
 #### Deliverable
 
